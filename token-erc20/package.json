@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.1",
+    "truffle": "^5.4.9"
+  },
+  "name": "token-erc20",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {
+    "mocha": "^8.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
